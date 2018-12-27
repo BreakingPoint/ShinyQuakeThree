@@ -37,10 +37,10 @@ Default-Shaders from 2016/10/16: https://github.com/crosire/reshade-shaders/arch
 
 6. Close Q3A and open the `ReShade.ini` file in the same folder of `ioquake3.exe` and replace the following settings with these values in the `[GENERAL]` section of the INI file:
 
-`PreprocessorDefinitions=RESHADE_DEPTH_LINEARIZATION_FAR_PLANE=1000.0,RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN=0,RESHADE_DEPTH_INPUT_IS_REVERSED=0,RESHADE_DEPTH_INPUT_IS_LOGARITHMIC=0`  
-`EffectSearchPaths=E:\games\Q3A\reshade-shaders\Shaders`  
-`TextureSearchPaths=E:\games\Q3A\reshade-shaders\Textures`
+       PreprocessorDefinitions=RESHADE_DEPTH_LINEARIZATION_FAR_PLANE=1000.0,RESHADE_DEPTH_INPUT_IS_UPSIDE_DOWN=0,RESHADE_DEPTH_INPUT_IS_REVERSED=0,RESHADE_DEPTH_INPUT_IS_LOGARITHMIC=0
+       EffectSearchPaths=E:\games\Q3A\reshade-shaders\Shaders
+       TextureSearchPaths=E:\games\Q3A\reshade-shaders\Textures
 
-If you don't, no effects and textures will be loaded and the reflections on surfaces will be upside down.
+      *If you don't, no effects and textures will be loaded and the reflections on surfaces will be upside down.*
 
 7. Run `ioquake3.exe` again.
