@@ -23,6 +23,8 @@ Default-Shaders from 2016/10/16: https://github.com/crosire/reshade-shaders/arch
 
 *You need ReShade 3.4.1 & the default shaders form that date! Newer versions are not compatible with these settings.*
 
+... and the new ReShade settings for Q3A of coz: https://github.com/BreakingPoint/ShinyQuakeThree/archive/master.zip
+
 ## Installation ##
 
 1. Download and install IoQuake3 and ReShade 3.4.1. Follow their setup instructions (ReShade: Use OpenGL + do not download default shaders but use the ones listed above!)
