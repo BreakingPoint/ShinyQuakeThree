@@ -5,6 +5,10 @@ A reshader of Quake 3 Arena to polish its looks. Uses ReShade and IoQuake3.
 About the Game Q3A:
 https://en.wikipedia.org/wiki/Quake_III_Arena
 
+## Installation ##
+
+Put the q3a_default.ini file in the same folder as quake3.exe/ioquake3.exe
+
 ## Downloads
 
 IoQuake3: https://ioquake3.org/get-it/
