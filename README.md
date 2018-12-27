@@ -41,4 +41,6 @@ Default-Shaders from 2016/10/16: https://github.com/crosire/reshade-shaders/arch
 `EffectSearchPaths=E:\games\Q3A\reshade-shaders\Shaders`  
 `TextureSearchPaths=E:\games\Q3A\reshade-shaders\Textures`
 
+If you don't, no effects and textures will be loaded and the reflections on surfaces will be upside down.
+
 7. Run `ioquake3.exe` again.
