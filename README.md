@@ -13,6 +13,10 @@ https://en.wikipedia.org/wiki/Quake_III_Arena
 
 <img src="https://i.imgur.com/Oc8xoLL.gif">
 
+<img src="https://i.imgur.com/5Vpvs8H.gif">
+
+<img src="https://i.imgur.com/GJdwup4.gif">
+
 ## Downloads
 
 IoQuake3: https://ioquake3.org/get-it/
