@@ -2,6 +2,14 @@
 
 A reshader of Quake 3 Arena to polish its looks. Uses ReShade and IoQuake3.
 
+Adds:
+
+* Bumpmapped reflective surfaces
+* Aliasing
+* Atmospheric/Volumetric lighting
+* Enhanced contrast and more vibrant colors
+* Dithering
+
 About the Game Q3A:
 https://en.wikipedia.org/wiki/Quake_III_Arena
 
