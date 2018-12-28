@@ -6,7 +6,7 @@ Adds:
 
 * Bumpmapped reflective surfaces
 * Aliasing
-* Atmospheric/Volumetric lighting
+* Atmospheric/Volumetric lighting(-ish)
 * Enhanced contrast and more vibrant colors
 * Dithering
 
