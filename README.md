@@ -7,15 +7,15 @@ https://en.wikipedia.org/wiki/Quake_III_Arena
 
 ## Previews (before/after) ##
 
-<img src="https://i.imgur.com/Bn3pSCy.gif">
+<img src="https://i.imgur.com/4aw8z7y.gif">
 
-<img src="https://i.imgur.com/qTHe0SL.gif">
+<img src="https://i.imgur.com/mLsIR8Y.gif">
 
-<img src="https://i.imgur.com/Oc8xoLL.gif">
+<img src="https://i.imgur.com/whwO6el.gif">
 
-<img src="https://i.imgur.com/5Vpvs8H.gif">
+<img src="https://i.imgur.com/iwIb3p8.gif">
 
-<img src="https://i.imgur.com/GJdwup4.gif">
+<img src="https://i.imgur.com/jf3J2Tu.gif">
 
 ## Downloads
 
