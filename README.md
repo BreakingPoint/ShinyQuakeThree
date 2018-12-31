@@ -1,6 +1,6 @@
 # ShinyQuakeThree
 
-A reshader of Quake 3 Arena to polish its looks. Uses ReShade and IoQuake3.
+A ReShader config for Quake 3 Arena to polish its looks. Uses ReShade and IoQuake3.
 
 Adds:
 
@@ -14,6 +14,8 @@ About the Game Q3A:
 https://en.wikipedia.org/wiki/Quake_III_Arena
 
 ## Previews (before/after) ##
+
+<img src="https://i.imgur.com/QpONeeR.gif">
 
 <img src="https://i.imgur.com/4aw8z7y.gif">
 
